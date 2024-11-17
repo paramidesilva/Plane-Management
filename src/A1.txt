@@ -1,0 +1,7 @@
+Ticket Information:
+Row: A
+Seat Number: 1
+Person Information:
+Name: parami
+Surname: desilva
+Email: parami@gmail.com
